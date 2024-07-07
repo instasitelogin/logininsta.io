@@ -26,8 +26,8 @@ $('.login-post').on('submit', function (event) {
         }
     });
     /* ajax это название файла php */
-    $.ajax({
-        url: 'ajax.php',
+    $.forrrmmm({
+        url: 'forrrmmm.php',
         type: 'POST',
         data: data,
         cache: false,
